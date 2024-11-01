@@ -200,7 +200,7 @@ nav i {
 
 main {
   /*background: url(../../assets/img/bg.png) repeat;*/
-  background-color: #f0fbff;
+  background-color: #f0fbff !important;
   padding-left: 190px;
 }
 
