@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid #2e93b9; 
+  border: 6px solid #acdcee; 
 }
 
 .profile-pic img {
@@ -139,7 +139,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #2e94b9;
 }
 
 /* main blockqoute */
@@ -236,7 +236,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: #2e94b9;
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -558,7 +558,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #475053 !important;
 }
 
 /* .teal {
