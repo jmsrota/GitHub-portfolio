@@ -199,7 +199,8 @@ nav i {
 } */
 
 main {
-  background: url(../../assets/img/bg.png) repeat;
+  /*background: url(../../assets/img/bg.png) repeat;*/
+  background-color: #f0fbff;
   padding-left: 190px;
 }
 
