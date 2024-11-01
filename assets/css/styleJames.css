@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid #acdcee; 
+  border: 6px solid #acdcee !important; 
 }
 
 .profile-pic img {
