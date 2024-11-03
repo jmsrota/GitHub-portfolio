@@ -19,6 +19,11 @@
   height: auto;
 }
 
+#Introduction {
+  background-color: #f0fbff;
+  color: black
+}
+
 .tracker {
   /* visibility: hidden; */
   position: fixed;
